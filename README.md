@@ -22,7 +22,7 @@ pod 'AndyCodeLab'
 
 ## Author
 
-annkieliu@hotmail.com
+annkieliu@hotmail.com Andy Liu
 
 ## License
 
