@@ -1,0 +1,22 @@
+{
+  "name": "AndyCodeLab",
+  "version": "0.1.0",
+  "summary": "A short description of AndyCodeLab.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/annkieliu@hotmail.com/AndyCodeLab",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "annkieliu@hotmail.com": "andyli2@cisco.com"
+  },
+  "source": {
+    "git": "https://github.com/annkieliu@hotmail.com/AndyCodeLab.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AndyCodeLab/Classes/**/*"
+}

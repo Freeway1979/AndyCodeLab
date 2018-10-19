@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AndyCodeLab_Example' do
+  pod 'AndyCodeLab', :path => '../'
+
+  target 'AndyCodeLab_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module AndyCodeLab {
+  umbrella header "AndyCodeLab-umbrella.h"
+
+  export *
+  module * { export * }
+}

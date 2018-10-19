@@ -1,0 +1,16 @@
+PODS:
+  - AndyCodeLab (0.1.0)
+
+DEPENDENCIES:
+  - AndyCodeLab (from `../`)
+
+EXTERNAL SOURCES:
+  AndyCodeLab:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AndyCodeLab: c43b5992ff89cdfb90d0236ad7bdb32da1c953c3
+
+PODFILE CHECKSUM: 64deb1d82457e7922ab09316cc8678a2832a72c8
+
+COCOAPODS: 1.5.3
